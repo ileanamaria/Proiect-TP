@@ -1,0 +1,24 @@
+*Instructiuni*
+
+Descrierea butoanelor:
+-Insert book: In cazul in care nu au fost introduse
+ titlul, autorul, stilul si editura, dupa apasarea
+ butonului va a aparea mesajul:"Introduceti date 
+ valide".
+
+    Dupa introducerea celor mentionate mai sus 
+apasarea butonului va permite introducerea
+unor noi date, care sa fie salvate in biblioteca
+ virtuala.
+
+-Reset library: Apasarea acestui buton va sterge 
+complet toate informatiile din biblioteca
+
+-The name of the book: Permite vizualizarea tututor 
+cartilor introduse anterior si sortate in ordine 
+alfabetica dupa numa
+
+-Instructions: Ofera informatii despre utilizare
+
+Observatii: Fereastra nu se poate redimensiona sau
+ marii in modul fullscreen
